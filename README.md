@@ -57,5 +57,23 @@ thus our main intrest is either : gathering
 
 
 
-on 10th may : the main projects being considered for the work to be progressed : aave risk framework , fuse.io  , rcmpi-wallet and 
- the 
+on 10th may : the main projects being considered for the work to be progressed : aave risk framework , fuse.io  , rcmpi-wallet for creating an local economics for unbanked .
+
+
+
+
+## Consensus distributed : 2  important  connections
+### 1. Ms Devorah from Kisspatent : 
+   
+- [ ] her requirements : making automation in patent registeration and compliance for the given contract on blockchain for  scalablity and transparency  in managing the full stack of the  product rather than hiring the lawyers to maintain the paperwork and just having direct access to notaire for final dispute resolution ( that can also be proposed to work with the aragon courts). 
+
+- [ ] also recommending the complete end to end consistent book-keeping of the startups ( fullstack info , and implementing devops on other business management operations into a single consistent wiki using RPA and dlt to maintain the consistent hierarchy and consistency of the workking  of the org to be actual data-driven decisions. 
+
+
+
+### 2. Ms Beatrice from crypto-trading firm :
+    - [ ] needs their telegram manuall based trading to be  automated   
+            1.1 intresting : even we cna work on using this application  api ( having both privacy compliance and access to immense requests , we cna implement front end in react and add the backen d to select the intresitng aspects , thus there must be 
+
+
+
