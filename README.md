@@ -77,3 +77,15 @@ on 10th may : the main projects being considered for the work to be progressed :
 
 
 
+
+
+
+## 4th july:
+
+trying to work on th deFI integration  with SI of wef along with 3D printing investments.
+
+
+
+
+
+
